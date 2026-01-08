@@ -30,9 +30,6 @@ Due to size constraints, datasets are not hosted in this repository.
 - Reddit Depression Dataset  
 - Reddit Sarcasm Dataset  
 
-📎 **Dataset & trained models:**  
-[Google Drive link here]
-
 ## Disclaimer
 This project is for research and educational purposes only and is **not a clinical diagnostic tool**.
 
